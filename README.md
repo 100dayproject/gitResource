@@ -1,0 +1,2 @@
+# gitResource
+Resource for github
